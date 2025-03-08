@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	flexbox:center;
+	display:flex;
 	justify-content: center;  
 	align_center:center;
 	flex:wrap;
