@@ -1,9 +1,19 @@
 
 /* Your CSS Code here. */
-.holder {
-  display: flex !important;
-  justify-content: center;
-  align-items: center;
-  width: 100vw;
-  height: 100vh;
+.holder{
+	display:flex;
+	justify-content: center;  
+	align_center:center;
+	flex:wrap;
+	width:100vw;
+	height:100vh;
+	background_color:red;
+}
+.item1{
+		flexbox:center;
+	flex:wrap;
+	width:100vw;
+	height:100vh;
+	background_color:red;
+
 }
