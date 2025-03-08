@@ -7,3 +7,11 @@
 	height:100px;
 	background_color:red;
 }
+.item1{
+		flexbox:center;
+	flex:wrap;
+	width:100px;
+	height:100px;
+	background_color:red;
+
+}
