@@ -5,15 +5,15 @@
 	justify-content: center;  
 	align_center:center;
 	flex:wrap;
-	width:100px;
-	height:100px;
+	width:100vw;
+	height:100vh;
 	background_color:red;
 }
 .item1{
 		flexbox:center;
 	flex:wrap;
-	width:100px;
-	height:100px;
+	width:100vw;
+	height:100vh;
 	background_color:red;
 
 }
