@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.holder{
+	flexbox:center;
+	flex:wrap;
+	width:100px;
+	height:100px;
+	background_color:red;
+}
