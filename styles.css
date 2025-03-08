@@ -2,6 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	flexbox:center;
+	justify-content: center;  
+	align_center:center;
 	flex:wrap;
 	width:100px;
 	height:100px;
